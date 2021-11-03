@@ -1,8 +1,6 @@
 spring:
   data:
     mongodb:
-      database: dbCalculus
-      username: userAdmin
-      password: userAdmin
+      uri: ${MONGODB_URI}
       auto-index-creation: true
 
