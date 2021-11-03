@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      database: dbCalculus
+      username: userAdmin
+      password: userAdmin
+      auto-index-creation: true
+
