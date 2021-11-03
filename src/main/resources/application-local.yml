@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://userAdmin:userAdmin@localhost:27017/dbCalculus
+      auto-index-creation: true
